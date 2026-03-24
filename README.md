@@ -299,3 +299,4 @@ npm run dev
 | خطأ في Supabase | تأكد إنك شغلت `schema.sql` كامل في SQL Editor |
 | الشانلات ما انسوت | تأكد إن البوت عنده صلاحية Administrator |
 | Claim ما يشتغل | تأكد إن رولك موجود في `supportRoleIds` أو `managerRoleIds` |
+# TicketBot
